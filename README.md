@@ -51,9 +51,9 @@ pip install -r requirements.txt
 
 ---
 ## 📷 Screenshots
-![Resume Ranker](https://github.com/sgr-8426/resumeScanning/blob/main/assets/screenshots/ss1.png)
+![Resume Ranker](https://github.com/sgr-8426/AI-resume-scanning-and-ranking-system/blob/main/assets/screenshots/ss1.png)
 
-![Resume Ranker](https://github.com/sgr-8426/resumeScanning/blob/main/assets/screenshots/ss2.png)
+![Resume Ranker](https://github.com/sgr-8426/AI-resume-scanning-and-ranking-system/blob/main/assets/screenshots/ss2.png)
 
 ---
 ## 🤝 Contributing
