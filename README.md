@@ -58,8 +58,3 @@ pip install -r requirements.txt
 ---
 ## 🤝 Contributing
 Feel free to contribute by forking this repository and submitting a pull request!
-
----
-## 🐜 License
-This project is licensed under the **MIT License**.
-
